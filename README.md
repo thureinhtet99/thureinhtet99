@@ -56,16 +56,8 @@ I'm a passionate **Frontend / Full-Stack Developer** focused on building clean, 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=thureinhtet99&show_icons=true&hide_border=true&theme=radical"
-    height="150"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=thureinhtet99&layout=compact&hide_border=true&theme=radical"
-    height="150"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=thureinhtet99&show_icons=true&theme=radical" />
 </p>
->
 
 ---
 
@@ -93,7 +85,9 @@ I'm a passionate **Frontend / Full-Stack Developer** focused on building clean, 
   <strong>— Cory House</strong>
 </p>
 
-<p align="center">
+---
+
+<p align="start">
   <img src="https://komarev.com/ghpvc/?username=thureinhtet99&label=Profile%20Views&color=blueviolet&style=flat" />
 </p>
 
