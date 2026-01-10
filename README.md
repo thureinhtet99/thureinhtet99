@@ -25,8 +25,8 @@ I'm a passionate **Frontend / Full-Stack Developer** focused on building clean, 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Expo](https://img.shields.io/badge/Expo-000000?style=flat&logo=expo&logoColor=white)
 
 ### 🎨 UI & Styling
@@ -56,9 +56,16 @@ I'm a passionate **Frontend / Full-Stack Developer** focused on building clean, 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thureinhtet99&show_icons=true&theme=radical" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thureinhtet99&layout=compact&theme=radical" height="160" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=thureinhtet99&show_icons=true&hide_border=true&theme=radical"
+    height="150"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=thureinhtet99&layout=compact&hide_border=true&theme=radical"
+    height="150"
+  />
 </p>
+>
 
 ---
 
@@ -81,5 +88,12 @@ I'm a passionate **Frontend / Full-Stack Developer** focused on building clean, 
 
 ---
 
-> 🧠 *"Code is like humor. When you have to explain it, it’s bad."*  
-> — **Cory House**
+<p align="center">
+  <em>“Code is like humor. When you have to explain it, it’s bad.”</em><br/>
+  <strong>— Cory House</strong>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=thureinhtet99&label=Profile%20Views&color=blueviolet&style=flat" />
+</p>
+
