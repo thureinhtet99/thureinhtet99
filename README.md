@@ -38,7 +38,7 @@
 
 ---
 
-### 💻 Operating Systems
+### 💻 OS
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 
