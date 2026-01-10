@@ -1,5 +1,6 @@
 - Currently leveling up in **TypeScript**, **Expo**, and **Next.js**
 - Open to **remote developer opportunities**
+- Feel free to reach out at **thureinhtet653@gmail.com**
 
 ---
 
@@ -33,21 +34,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-### 🌐 Portfolio Website
-- Built with **Next.js, Tailwind CSS, shadcn/ui**
-- Fully responsive with dark/light mode
-- SEO-optimized and performance-focused  
-🔗 **Live:** https://www.thureinhtet.com
-
-### 📱 Mobile App (Expo + React Native)
-- Cross-platform app using **Expo & TypeScript**
-- Clean UI with form validation and API integration
-- Focused on performance and scalability
 
 ---
 
