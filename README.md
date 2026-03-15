@@ -75,6 +75,15 @@
 
 ---
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+
+
+---
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thureinhtet99&theme=radical)
+
+---
+
 <p align="start">
   <img src="https://komarev.com/ghpvc/?username=thureinhtet99&label=Profile%20Views&color=blueviolet&style=flat" />
 </p>
