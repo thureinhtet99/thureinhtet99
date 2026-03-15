@@ -71,6 +71,10 @@
 
 ---
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thureinhtet99&show_icons=true&theme=radical)
+
+---
+
 <p align="start">
   <img src="https://komarev.com/ghpvc/?username=thureinhtet99&label=Profile%20Views&color=blueviolet&style=flat" />
 </p>
