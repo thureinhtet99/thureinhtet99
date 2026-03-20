@@ -1,89 +1,68 @@
-- Currently leveling up in **TypeScript**, **Expo**, and **Next.js**
-- Open to **remote developer opportunities**
-- Feel free to reach out at **thureinhtet653@gmail.com**
+# Thurein Htet
 
----
+**Full-Stack Developer** · TypeScript · React · Node.js
+
+Currently leveling up in **Expo** and **Next.js** — building clean, performant web and mobile experiences.
+
+📬 [thureinhtet653@gmail.com](mailto:thureinhtet653@gmail.com) · 💼 [LinkedIn](https://linkedin.com/in/thureinhtet99) · 🌐 [Portfolio](https://www.thureinhtet.com) · 🟢 Open to remote developer opportunities
+
 
 ## Tech Stack
 
+**Frontend**
+ 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000000?style=flat&logo=expo&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=flat)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat&logo=reacthookform&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E5BAA?style=flat&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![React_Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000000?style=flat&logo=expo&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=flat)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![React_Hook_Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat&logo=reacthookform&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-3E5BAA?style=flat&logoColor=white)
-![TanStack_Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat)
+ 
+**Backend**
+ 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+ 
+**Databases**
+ 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![SQL_Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
-![pnpm](https://img.shields.io/badge/pnpm-F69220?style=flat&logo=pnpm&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=flat&logo=drizzle&logoColor=black)
+ 
+**Tools**
+ 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS_Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-
----
-
-### OS
+![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
+![pnpm](https://img.shields.io/badge/pnpm-F69220?style=flat&logo=pnpm&logoColor=white)
+ 
+**OS**
+ 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 
+---
+
+## GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=thureinhtet99&show_icons=true&theme=graywhite&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thureinhtet99&layout=compact&theme=graywhite&hide_border=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=thureinhtet99&theme=graywhite&hide_border=true)
 
 ---
 
-## Connect With Me
-
-<p align="left">
-  <a href="mailto:thureinhtet653@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/thureinhtet99">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100056964217962">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://www.thureinhtet.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <em>“Code is like humor. When you have to explain it, it’s bad.”</em><br/>
-  <strong>— Cory House</strong>
-</p>
-
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thureinhtet99&show_icons=true&theme=radical)
-
----
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thureinhtet99&layout=compact&theme=radical)
-
-
----
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thureinhtet99&theme=radical)
-
----
-
-<p align="start">
-  <img src="https://komarev.com/ghpvc/?username=thureinhtet99&label=Profile%20Views&color=blueviolet&style=flat" />
-</p>
-
+<img src="https://komarev.com/ghpvc/?username=thureinhtet99&label=Profile%20Views&color=000000&style=flat" />
