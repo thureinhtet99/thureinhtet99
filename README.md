@@ -4,7 +4,7 @@
 
 Currently leveling up in **Expo** and **Next.js** — building clean, performant web and mobile experiences.
 
-📬 [thureinhtet653@gmail.com](mailto:thureinhtet653@gmail.com) · 💼 [LinkedIn](https://linkedin.com/in/thureinhtet99) · 🌐 [Portfolio](https://www.thureinhtet.com) · 🟢 Open to remote developer opportunities
+📬 [thureinhtet653@gmail.com](mailto:thureinhtet653@gmail.com) · 💼 [LinkedIn](https://linkedin.com/in/thureinhtet99) · 🌐 [Portfolio](https://portfolio-six-sigma-9uq5cpyju3.vercel.app/) · 🟢 Open to remote developer opportunities
 
 
 ## Tech Stack
