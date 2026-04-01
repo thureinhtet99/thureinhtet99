@@ -1,14 +1,8 @@
 # Thurein Htet
-
 **Full-Stack Developer** · TypeScript · React · Node.js
-
 Currently leveling up in **Expo** and **Next.js** — building clean, performant web and mobile experiences.
-
 📬 [thureinhtet653@gmail.com](mailto:thureinhtet653@gmail.com) · 💼 [LinkedIn](https://linkedin.com/in/thureinhtet99) · 🌐 [Portfolio](https://portfolio-six-sigma-9uq5cpyju3.vercel.app/) · 🟢 Open to remote developer opportunities
-
-
 ## Tech Stack
-
 **Frontend**
  
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
@@ -59,10 +53,11 @@ Currently leveling up in **Expo** and **Next.js** — building clean, performant
 
 ## GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=thureinhtet99&show_icons=true&theme=graywhite&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thureinhtet99&layout=compact&theme=graywhite&hide_border=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=thureinhtet99&theme=graywhite&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=thureinhtet99&show_icons=true&theme=graywhite&hide_border=true&cache_seconds=86400" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thureinhtet99&layout=compact&theme=graywhite&hide_border=true&cache_seconds=86400&langs_count=8" />
+
+<img src="https://streak-stats.demolab.com/?user=thureinhtet99&theme=graywhite&hide_border=true" />
 
 ---
-
 <img src="https://komarev.com/ghpvc/?username=thureinhtet99&label=Profile%20Views&color=000000&style=flat" />
