@@ -53,9 +53,9 @@ Currently leveling up in **Expo** and **Next.js** — building clean, performant
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats-9b82a9n3w-thurein-htets-projects.vercel.app/api?username=thureinhtet99&show_icons=true&theme=graywhite&hide_border=true&cache_seconds=86400" />
+<img src="https://github-readme-stats-one-lac-70.vercel.app/api?username=thureinhtet99&show_icons=true&theme=graywhite&hide_border=true&cache_seconds=86400" />
 
-<img src="https://github-readme-stats-9b82a9n3w-thurein-htets-projects.vercel.app/api/top-langs/?username=thureinhtet99&layout=compact&theme=graywhite&hide_border=true&cache_seconds=86400&langs_count=8" />
+<img src="https://github-readme-stats-one-lac-70.vercel.app/api/top-langs/?username=thureinhtet99&layout=compact&theme=graywhite&hide_border=true&cache_seconds=86400&langs_count=8" />
 
 <img src="https://streak-stats.demolab.com/?user=thureinhtet99&theme=graywhite&hide_border=true" />
 
