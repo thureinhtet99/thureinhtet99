@@ -1,7 +1,8 @@
-# Thurein Htet
-**Full-Stack Developer** · TypeScript · React · Node.js
+# Thu Rein Htet
 Currently leveling up in **Expo** and **Next.js** — building clean, performant web and mobile experiences.
+
 📬 [thureinhtet653@gmail.com](mailto:thureinhtet653@gmail.com) · 💼 [LinkedIn](https://linkedin.com/in/thureinhtet99) · 🌐 [Portfolio](https://portfolio-six-sigma-9uq5cpyju3.vercel.app/) · 🟢 Open to remote developer opportunities
+
 ## Tech Stack
 **Frontend**
  
@@ -49,7 +50,6 @@ Currently leveling up in **Expo** and **Next.js** — building clean, performant
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 
----
 
 ## GitHub Stats
 
