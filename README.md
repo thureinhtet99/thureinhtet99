@@ -4,8 +4,7 @@ Currently leveling up in **Expo** and **Next.js** — building clean, performant
 
 📬 [thureinhtet653@gmail.com](mailto:thureinhtet653@gmail.com)  
 💼 [LinkedIn](https://linkedin.com/in/thureinhtet99)  
-🌐 [Portfolio](https://portfolio-six-sigma-9uq5cpyju3.vercel.app/)  
-🟢 Open to remote or on-site developer opportunities
+🌐 [Portfolio](https://portfolio-six-sigma-9uq5cpyju3.vercel.app/)
 
 ---
 
@@ -52,29 +51,16 @@ Currently leveling up in **Expo** and **Next.js** — building clean, performant
 ![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
 ![pnpm](https://img.shields.io/badge/pnpm-F69220?style=flat&logo=pnpm&logoColor=white)
 
-### Operating Systems
-
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
-
 ---
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats-one-lac-70.vercel.app/api?username=thureinhtet99&show_icons=true&theme=graywhite&hide_border=true&cache_seconds=86400" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-one-lac-70.vercel.app/api/top-langs/?username=thureinhtet99&layout=compact&theme=graywhite&hide_border=true&cache_seconds=86400&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=thureinhtet99&theme=graywhite&hide_border=true" />
+<p align="start">
+  <img src="https://streak-stats.demolab.com/?user=thureinhtet99&theme=brown&hide_border=false" />
 </p>
 
 ---
 
-<p align="center">
+<p align="start">
   <img src="https://komarev.com/ghpvc/?username=thureinhtet99&label=Profile%20Views&color=000000&style=flat" />
 </p>
