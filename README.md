@@ -61,6 +61,10 @@ Currently leveling up in **Expo** and **Next.js** — building clean, performant
 
 ---
 
+> “ Any fool can write code that a computer can understand. Good programmers write code that humans can understand. ” – Martin Fowler
+
+---
+
 <p align="start">
   <img src="https://komarev.com/ghpvc/?username=thureinhtet99&label=Profile%20Views&color=000000&style=flat" />
 </p>
