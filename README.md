@@ -61,7 +61,9 @@ Currently leveling up in **Expo** and **Next.js** — building clean, performant
 
 ---
 
-> “ Any fool can write code that a computer can understand. Good programmers write code that humans can understand. ” – Martin Fowler
+> “ All that we are is the result of what we have thought. ”
+> 
+> – Buddha
 
 ---
 
