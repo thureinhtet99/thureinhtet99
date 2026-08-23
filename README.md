@@ -4,7 +4,7 @@ Currently leveling up in **Expo** and **Next.js** — building clean, performant
 
 📬 [thureinhtet653@gmail.com](mailto:thureinhtet653@gmail.com)  
 💼 [LinkedIn](https://linkedin.com/in/thureinhtet99)  
-🌐 [Portfolio](https://portfolio-six-sigma-9uq5cpyju3.vercel.app/)
+🌐 [Portfolio](https://thureinhtet-portfolio.vercel.app/)
 
 ---
 
